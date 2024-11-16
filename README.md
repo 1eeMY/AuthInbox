@@ -222,7 +222,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Acknowledgements 🙏
+## Acknowledgements 🙏 
 
 - **Cloudflare Workers** for providing a powerful serverless platform.
 - **Google Gemini AI** for enabling intelligent email content extraction.
